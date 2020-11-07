@@ -1,2 +1,2 @@
-# Zipify
+# Zippify
 Python-based archiving/zipping utility.
